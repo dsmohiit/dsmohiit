@@ -26,3 +26,6 @@
 
 ### LeetCode Profile:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/dsmohiit?ext=heatmap)
+
+## LeetCode Badge:
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=dsmohiit&animated=true)
